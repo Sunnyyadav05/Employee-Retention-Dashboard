@@ -4,5 +4,6 @@ Business Need: -Address high attrition rates within the organization by identify
 
 Conclusion:
 
-•Proposed strategies to address high attrition rates, including implementing retention incentives, improving salaries, and  providing additional training.
+•Proposed strategies to address high attrition rates, including implementing retention incentives, improving salaries,  and  providing additional training. 
+
 •Recommended development opportunities and resources for managers and supervisors to support their teams in achieving    better work-life balance.
