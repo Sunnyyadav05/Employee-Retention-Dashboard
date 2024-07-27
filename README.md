@@ -2,9 +2,9 @@
 
 **Employee Retention** is a data-driven project focused on enhancing employee retention strategies within organizations. By leveraging advanced data analysis and visualization tools, the project aims to provide actionable insights that help businesses reduce employee turnover and improve workplace satisfaction.
 
-# Implemented a comprehensive employee retention analysis project Using Power BI, SQL, Tableau, and Excel.
-# Developed interactive dashboards and reports to track key retention metrics, identify potential attrition factors, and propose targeted retention strategies.
-# SQL for data extraction and manipulation, Excel for data preprocessing, and Power BI for data visualization to provideactionable insights for HR decision-making.
+## Implemented a comprehensive employee retention analysis project Using Power BI, SQL, Tableau, and Excel.
+## Developed interactive dashboards and reports to track key retention metrics, identify potential attrition factors, and propose targeted retention strategies.
+## SQL for data extraction and manipulation, Excel for data preprocessing, and Power BI for data visualization to provideactionable insights for HR decision-making.
 
 
  ## Tools Used:
